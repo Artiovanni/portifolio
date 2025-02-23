@@ -17,20 +17,6 @@ Este portfólio apresenta as habilidades e experiências de Arthur Giovanni, um 
 - HTML
 - CSS
 
-## 📸 Imagens
-
-### Página Inicial
-
-A página inicial apresenta uma introdução sobre Arthur Giovanni e links para suas redes sociais.
-
-<a hrf="./assets/home.png" alt="Página Inicial">
-
-### Página "Sobre mim"
-
-A página "Sobre mim" detalha a trajetória, habilidades e experiências de Arthur Giovanni.
-
-<a hrf="./assets/about.png" alt="Página Sobre mim">
-
 ## Como Usar
 
 1. Navegue até a página inicial para uma breve introdução.
